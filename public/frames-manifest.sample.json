@@ -1,0 +1,15 @@
+{
+  "_comment": "Copy this file to frames-manifest.json and adjust paths to your real images placed under /public/real/...",
+  "ray-ban-rb5154": {
+    "thumb": "/real/rb5154/thumb.png",
+    "front": "/real/rb5154/front.png",
+    "angleLeft": "/real/rb5154/left.png",
+    "angleRight": "/real/rb5154/right.png",
+    "transparent": "/real/rb5154/front-transparent.png"
+  },
+  "ray-ban-aviator-classic": {
+    "thumb": "/real/aviator/thumb.png",
+    "front": "/real/aviator/front.png",
+    "mask": "/real/aviator/mask.png"
+  }
+}
